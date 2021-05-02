@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Random Quote Machine
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This react app shows random quotes from different authors.
 
 ## Available Scripts
 
